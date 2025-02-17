@@ -1,0 +1,324 @@
+{
+	"items": [
+		{
+			"label": "Why Sift",
+			"url": "/",
+			"subItems": [
+				{
+					"label": "The Sift Difference",
+					"url": "/why-sift"
+				},
+				{
+					"label": "EXPLORE WHY",
+					"category": "category",
+					"url": "#"
+				},
+				{
+					"label": "Market Leadership",
+					"url": "/why-sift#leadership"
+				},
+				{
+					"label": "Partnerships",
+					"url": "/partnerships"
+				},
+				{
+					"label": "Professional Services",
+					"url": "/services"
+				},
+				{
+					"label": "Patents",
+					"url": "/patents"
+				},
+				{
+					"label": "EVEN MORE",
+					"category": "category",
+					"url": "#"
+				},
+				{
+					"label": "Sifters Community",
+					"url": "/community"
+				}
+			]
+		},
+		{
+			"label": "Solutions",
+			"url": "/",
+			"subItems": [
+				{
+					"label": "Solutions Overview",
+					"url": "/solutions"
+				},
+				{
+					"label": "By Use case",
+					"subItems": [
+						{
+							"label": "Account Creation",
+							"url": "/solutions/account-creation"
+						},
+						{
+							"label": "Account Takeover (ATO)",
+							"url": "/solutions/ato"
+						},
+						{
+							"label": "Payment Fraud",
+							"url": "/solutions/payment-fraud"
+						},
+						{
+							"label": "Money Movement",
+							"url": "/solutions/money-movement"
+						},
+						{
+							"label": "Chargeback Fraud",
+							"url": "/solutions/chargeback-fraud"
+						},
+						{
+							"label": "Policy Abuse",
+							"url": "/solutions/policy-abuse"
+						},
+						{
+							"label": "Content Scams",
+							"url": "/solutions/content-scams"
+						}
+					]
+				},
+				{
+					"label": "By Industry",
+					"subItems": [
+						{
+							"label": "E-Commerce",
+							"url": "/solutions/ecommerce"
+						},
+						{
+							"label": "Digital Goods",
+							"url": "/solutions/digital-goods-services"
+						},
+						{
+							"label": "Fintech",
+							"url": "/solutions/fintech"
+						},
+						{
+							"label": "iGaming",
+							"url": "/solutions/igaming"
+						},
+						{
+							"label": "Travel & Transportation",
+							"url": "/solutions/travel-transportation"
+						},
+						{
+							"label": "Marketplaces",
+							"url": "/solutions/marketplaces"
+						},
+						{
+							"label": "Food & Delivery",
+							"url": "/solutions/food-delivery"
+						}
+					]
+				},
+				{
+					"label": "By Role",
+					"subItems": [
+						{
+							"label": "Trust & Fraud",
+							"url": "/solutions/trust-fraud-operations"
+						},
+						{
+							"label": "Product Management",
+							"url": "/solutions/product-management"
+						},
+						{
+							"label": "Operations",
+							"url": "/solutions/business-operations"
+						},
+						{
+							"label": "InfoSec & IT",
+							"url": "/solutions/information-security"
+						},
+						{
+							"label": "Executives",
+							"url": "/solutions/executives"
+						}
+					]
+				},
+				{
+					"label": "Risk Assessment",
+					"url": "/risk-assessment",
+					"button": "button"
+				}
+			]
+		},
+		{
+			"label": "Platform",
+			"url": "/platform",
+			"subItems": [
+				{
+					"label": "The Sift Platform",
+					"url": "/platform"
+				},
+				{
+					"label": "Products",
+					"subItems": [
+						{
+							"label": "Payment Protection",
+							"url": "/platform/payment-protection"
+						},
+						{
+							"label": "Content Integrity",
+							"url": "/platform/content-integrity"
+						},
+						{
+							"label": "Account Defense",
+							"url": "/platform/account-defense"
+						},
+						{
+							"label": "Dispute Management",
+							"url": "/platform/dispute-management"
+						}
+					]
+				},
+				{
+					"label": "Ecosystem",
+					"subItems": [
+						{
+							"label": "Partner Ecosystem",
+							"url": "/partner-ecosystem"
+						},
+						{
+							"label": "Payment & Fraud Orchestration",
+							"url": "/partner-ecosystem/payment-fraud-orchestration"
+						},
+						{
+							"label": "Payment Service Providers (PSPs)",
+							"url": "/partner-ecosystem/payment-service-providers"
+						},
+						{
+							"label": "Identity Verification & Proofing",
+							"url": "/partner-ecosystem/identity-verification-proofing"
+						},
+						{
+							"label": "Risk-Based Authentication",
+							"url": "/partner-ecosystem/risk-based-authentication"
+						},
+						{
+							"label": "Customer Experience Management (CXM)",
+							"url": "/partner-ecosystem/customer-experience-management-cxm"
+						}
+					]
+				},
+				{
+					"label": "Sift Innovations",
+					"subItems": [
+						{
+							"label": "PSD2 & PSD3",
+							"url": "/psd2"
+						},
+						{
+							"label": "New Releases",
+							"url": "/new-releases"
+						}
+					]
+				}
+			]
+		},
+		{
+			"label": "Resources",
+			"url": "/",
+			"subItems": [
+				{
+					"label": "All Resources",
+					"url": "/resources"
+				},
+				{
+					"label": "BY TOPIC",
+					"category": "category",
+					"url": "#"
+				},
+				{
+					"label": "Payment Fraud",
+					"url": "/resources?use_case=payment-fraud-type"
+				},
+				{
+					"label": "Chargeback Fraud",
+					"url": "/resources?use_case=chargeback-disputes-type"
+				},
+				{
+					"label": "Account Fraud",
+					"url": "/resources?use_case=ato-type"
+				},
+				{
+					"label": "Content Abuse",
+					"url": "/resources?use_case=spam-type"
+				},
+				{
+					"label": "EVEN MORE",
+					"category": "category",
+					"url": "#"
+				},
+				{
+					"label": "FIBR Fraud Center",
+					"url": "/fibr-fraud-industry-benchmarking-resource"
+				},
+				{
+					"label": "Blog",
+					"url": "/blog"
+				},
+				{
+					"label": "Trust & Safety University",
+					"url": "/trust-safety-university"
+				},
+				{
+					"label": "Get a Demo",
+					"url": "/demo"
+				},
+				{
+					"label": "For Developers",
+					"url": "https://developers.sift.com/",
+					"externalLink": true
+				},
+				{
+					"label": "Support",
+					"url": "/contact-support"
+				}
+			]
+		},
+		{
+			"label": "Company",
+			"url": "/company",
+			"subItems": [
+				{
+					"label": "About Us",
+					"url": "/company"
+				},
+				{
+					"label": "Newsroom",
+					"url": "/newsroom"
+				},
+				{
+					"label": "Events",
+					"url": "/events"
+				},
+				{
+					"label": "Leadership",
+					"url": "/company#leadership"
+				},
+				{
+					"label": "Investors",
+					"url": "/investors"
+				},
+				{
+					"label": "Brand Center",
+					"url": "/brand-center"
+				},
+				{
+					"label": "Contact Us",
+					"url": "/contact-us"
+				},
+				{
+					"label": "Careers",
+					"url": "/careers",
+					"button": "button"
+				}
+			]
+		}
+	]
+}
+
